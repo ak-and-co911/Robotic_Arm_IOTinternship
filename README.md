@@ -12,7 +12,7 @@ Niryo is a French startup designing and engineering desktop collaborative robots
 [UR3e](https://www.universal-robots.com/products/ur3-robot/) is the smallest collaborative robotic arm by Universal Robotics. It has a payload capacity of 3kgs and reach of 500mm. 
 The cad file for UR3e is available [here](https://www.universal-robots.com/download/mechanical-e-series/ur3e/robot-ur3e-jt-file-e-series/)
 
-### Contents
+## Contents
 1. [Comparison between Niryo Ned 1 and Niryo Ned 2 - NiryoNed1 NiryoNed2 Comparison.pptx](https://github.com/ak-and-co911/Robotic_Arm_IOTinternship/blob/main/NiryoNed1%20NiryoNed2%20Comparison.pptx)
 
 1. [Niryo 1 Parts - NiryoOne Parts .docx](https://github.com/ak-and-co911/Robotic_Arm_IOTinternship/blob/main/NiryoOne%20GripperParts.docx](https://github.com/ak-and-co911/Robotic_Arm_IOTinternship/blob/main/NiryoOne%20Parts%20.docx)https://github.com/ak-and-co911/Robotic_Arm_IOTinternship/blob/main/NiryoOne%20Parts%20.docx)
