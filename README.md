@@ -11,7 +11,9 @@ Niryo is a French startup designing and engineering desktop collaborative robots
 ### Contents realted Niryo
 [1. Comparison between Niryo Ned 1 and Niryo Ned 2 - NiryoNed1 NiryoNed2 Comparison.pptx](https://github.com/ak-and-co911/Robotic_Arm_IOTinternship/blob/main/NiryoNed1%20NiryoNed2%20Comparison.pptx)
 
-[2. Niryo 1 Part file](https://github.com/ak-and-co911/Robotic_Arm_IOTinternship/blob/main/NiryoOne%20GripperParts.docx)
+[2. Niryo 1 Parts - NiryoOne Parts .docx]([https://github.com/ak-and-co911/Robotic_Arm_IOTinternship/blob/main/NiryoOne%20GripperParts.docx](https://github.com/ak-and-co911/Robotic_Arm_IOTinternship/blob/main/NiryoOne%20Parts%20.docx)https://github.com/ak-and-co911/Robotic_Arm_IOTinternship/blob/main/NiryoOne%20Parts%20.docx)
+
+[3. Niryo 1 Gripper Parts - NiryoOne GripperParts.docx](https://github.com/ak-and-co911/Robotic_Arm_IOTinternship/blob/main/NiryoOne%20GripperParts.docx)
 
 ## UR3e Inspired Design of 6 axis robotic arm
 ### References and Useful Links
